@@ -1,0 +1,7 @@
+# Ignored files
+__pycache__
+.idea
+ner-server/logs
+ner-server/configurations/output
+ner-server/bin/pytorch_ner/models
+ner-server/bin/models
